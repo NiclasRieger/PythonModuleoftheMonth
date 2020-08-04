@@ -30,4 +30,4 @@
 
 Iago was here as well
 
-Pedro was here as well but had no idea what to do so he cheated
+Also Pedro
