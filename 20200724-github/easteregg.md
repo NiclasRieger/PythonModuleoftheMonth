@@ -31,5 +31,17 @@
 Iago was here as well....Again!
 
 Also Pedro
+<<<<<<< HEAD
 Moni too
 Manu was there
+=======
+Moni too          ^   ^
+                    -
+
+
+
+  ___ __ _ / _| ___ 
+ / __/ _` | |_ / _ \
+| (_| (_| |  _|  __/ Amal too !!!
+ \___\__,_|_|  \___|
+>>>>>>> master
