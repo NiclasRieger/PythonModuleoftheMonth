@@ -28,9 +28,15 @@
 
 
 
-Iago was here as well
+Iago was here as well....Again!
 
 Also Pedro
+<<<<<<< HEAD
 Moni too
+
 xinjia is here
 
+=======
+Moni too          ^   ^
+                    -
+>>>>>>> refs/remotes/origin/master
